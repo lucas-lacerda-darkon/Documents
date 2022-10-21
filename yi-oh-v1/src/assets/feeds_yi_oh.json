@@ -424,12 +424,12 @@
             "_id": 14,
             "datetime": "2019-11-01T12:00-0500",
             "carta_cabecalho": {
-                "name": "ifba",
+                "name": "ifba2",
                 "avatar": "vc_vai_morrer.jpg"
             },
             "likes": 0,
             "carta": {
-                "name": "ifba",
+                "name": "ifba2",
                 "description": "se jogada indica que um oponete tem apenas dois turnos antes de ser eliminado está carta não pode ser detida.",
                 "atk": 6000,
                 "def": 2500,
