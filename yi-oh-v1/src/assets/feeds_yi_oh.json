@@ -1,0 +1,455 @@
+{
+    "feeds": [
+        {
+            "_id": 1,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "ciro",
+                "avatar": "ciro.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "Ciro, O Cangaceiro",
+                "description": "Ao ser invocado,recebe um dos mosntros do adversário na bala,ou seja, destrói instataneamente.",
+                "atk": 1600,
+                "def": 900,
+                "tipo": "politico",
+                "imagem_carta": "../../assets/ciro.jpg",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },{
+            "_id": 2,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "Descarga",
+                "avatar": "Descarga.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "Descarga",
+                "description": "Use essa carta para pedir educadamente para seu amigo calar a boca.",
+                "atk": 3000,
+                "def": 2500,
+                "tipo": "dragon",
+                "imagem_carta": "../../assets/descarga.jpg",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },{
+            "_id": 3,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "Morre Diabo",
+                "avatar": "Morre Diabo.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "Ahh,Morre Diabo",
+                "description": "Não te interessa o q esta carta faz e eu quero que você se foda! Seu Filho #$%@#",
+                "atk": 2350,
+                "def": 1900,
+                "tipo": "meme",
+                "imagem_carta": "../../assets/morrer_diabo.jpg",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },{
+            "_id": 4,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "num vai daaa",
+                "avatar": "num vai daaa.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "Num vai DAA!!!",
+                "description": "Cancela o ataque inimigo.",
+                "atk": 0,
+                "def": 0,
+                "tipo": "TRAP",
+                "imagem_carta": "../../assets/nao_vai_da.jpg",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },{
+            "_id": 5,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "neymar",
+                "avatar": "neymar.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "neymar",
+                "description": "um tipo de cara que só cai e fica na sobra de Messi.",
+                "atk": 2900,
+                "def": 2000,
+                "tipo": "PSG",
+                "imagem_carta": "../../assets/neymar.jpg",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },{
+            "_id": 6,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "Ninja moreira",
+                "avatar": "Ninja moreira.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "Ninja moreira",
+                "description": "Quando ativida todos na mesa tem o ouvido danficado graças ao seu trap de qualidade.",
+                "atk": 70,
+                "def": 190,
+                "tipo": "TRAPSTAR",
+                "imagem_carta": "../../assets/ninja moreira.webp",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },{
+            "_id": 7,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "obama",
+                "avatar": "obama.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "obama",
+                "description": "Mata todos as cartas do tipo Terrorista.",
+                "atk": 1600,
+                "def": 900,
+                "tipo": "TRAP",
+                "imagem_carta": "../../assets/obama.jpg",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },{
+            "_id": 8,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "O Dragão Alado de Rá",
+                "avatar": "O Dragão Alado de Rá.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "O Dragão Alado de Rá",
+                "description": " Um dos antigos Deseus das cartas",
+                "atk": "?",
+                "def": "?",
+                "tipo": "Deus",
+                "imagem_carta": "../../assets/rá.jpg",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },{
+            "_id": 9,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "Seu Madruga",
+                "avatar": "Seu Madruga.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "Seu Madruga",
+                "description": "Se seu Barriga estiver em campo. Seu madruga é colocado em modo de defesa.",
+                "atk": 2000,
+                "def": 500,
+                "tipo": "Chaves",
+                "imagem_carta": "../../assets/seu_madruga.jpg",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },{
+            "_id": 10,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "Michel Temer",
+                "avatar": "Temer.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "Michel Temer",
+                "description": " Quando usada drena 666 pontos de ataque do adversário. Em modo de defasa 'não renunciarei' permanece por mais 1 turno mesmo sendo atacada",
+                "atk": 666,
+                "def": 3400,
+                "tipo": "politico",
+                "imagem_carta": "../../assets/termer.jpg.jpg",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },{
+            "_id": 11,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "vasco",
+                "avatar": "vasco.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "vasco.jpg",
+                "description": "Obriga o jogador adversario ir jogar no vasco, sem volta!!",
+                "atk": 1600,
+                "def": 900,
+                "tipo": "TRAP",
+                "imagem_carta": "../../assets/vasco.jpg",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },{
+            "_id": 12,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "ciro",
+                "avatar": "ciro.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "Ciro, O Cangaceiro",
+                "description": "Ao ser invocado,recebe um dos mosntros do adversário na bala,ou seja, destrói instataneamente.",
+                "atk": 1600,
+                "def": 900,
+                "tipo": "politico",
+                "imagem_carta": "../../assets/ciro.jpg",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },{
+            "_id": 13,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "vc vai morrer",
+                "avatar": "vc_vai_morrer.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "vc vai morrer",
+                "description": "se jogada indica que um oponete tem apenas dois turnos antes de ser eliminado está carta não pode ser detida.",
+                "atk": 6000,
+                "def": 2500,
+                "tipo": "apresentador",
+                "imagem_carta": "../../assets/vc_vai_morrer.jpg",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },{
+            "_id": 14,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "game",
+                "avatar": "vc_vai_morrer.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "game",
+                "description": "se jogada indica que um oponete tem apenas dois turnos antes de ser eliminado está carta não pode ser detida.",
+                "atk": 6000,
+                "def": 2500,
+                "tipo": "apresentador",
+                "imagem_carta": "../../assets/vc_vai_morrer.jpg",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },{
+            "_id": 14,
+            "datetime": "2019-11-01T12:00-0500",
+            "carta_cabecalho": {
+                "name": "ifba",
+                "avatar": "vc_vai_morrer.jpg"
+            },
+            "likes": 0,
+            "carta": {
+                "name": "ifba",
+                "description": "se jogada indica que um oponete tem apenas dois turnos antes de ser eliminado está carta não pode ser detida.",
+                "atk": 6000,
+                "def": 2500,
+                "tipo": "apresentador",
+                "imagem_carta": "../../assets/vc_vai_morrer.jpg",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        } 
+    ]
+}
